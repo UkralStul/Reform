@@ -34,7 +34,7 @@ export default function Main({navigation}) {
                 <TouchableOpacity style={styles.settingsImage} onPress={loadScene}>
                   <Image source={require('../assets/icons8-menu-60.png')}/>
                 </TouchableOpacity>
-                
+                // awds
               </View>
             </View>
 
